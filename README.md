@@ -1,4 +1,4 @@
-# fifa_manager
+# fifa_program
 A match query, addition and deletion software for users and administrators. (individual work)
 The FIFA World Cup (FIFA World Cup), referred to as the "World Cup", is a soccer tournament 
 that symbolizes the highest honor in the soccer world and has the greatest popularity and 
